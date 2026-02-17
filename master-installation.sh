@@ -13,3 +13,4 @@ fi
 . ./install-lazygit.sh
 . ./install-ghostty.sh
 . ./install-wl-clipboard.sh
+. ./install-cliphist.sh

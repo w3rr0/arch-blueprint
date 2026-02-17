@@ -14,4 +14,3 @@ fi
 . ./install-ghostty.sh
 . ./install-wl-clipboard.sh
 . ./install-cliphist.sh
-. ./install-xdg-desktop-portal.sh

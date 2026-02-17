@@ -12,3 +12,4 @@ fi
 . ./install-neovim.sh
 . ./install-lazygit.sh
 . ./install-ghostty.sh
+. ./install-wl-clipboard.sh

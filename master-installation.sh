@@ -17,3 +17,5 @@ fi
 . ./install-tmux.sh
 . ./install-starship.sh
 . ./install-neofetch.sh
+. ./install-bluez.sh
+. ./install-blueman.sh

@@ -6,3 +6,5 @@ if ! command -v yay &> /dev/null; then
 fi
 
 . ./install-git.sh
+. ./install-base-devel.sh
+. ./install-firefox.sh

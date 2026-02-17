@@ -9,3 +9,4 @@ fi
 . ./install-base-devel.sh
 . ./install-firefox.sh
 . ./install-tree.sh
+. ./install-neovim.sh

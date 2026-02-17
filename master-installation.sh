@@ -16,3 +16,4 @@ fi
 . ./install-cliphist.sh
 . ./install-tmux.sh
 . ./install-starship.sh
+. ./install-neofetch.sh

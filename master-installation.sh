@@ -8,3 +8,4 @@ fi
 . ./install-git.sh
 . ./install-base-devel.sh
 . ./install-firefox.sh
+. ./install-tree.sh

@@ -23,3 +23,4 @@ fi
 . ./install-jetbrains-mono-nerd.sh
 . ./install-waybar.sh
 . ./install-pavucontrol.sh
+. ./install-wlogout.sh

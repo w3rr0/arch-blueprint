@@ -24,3 +24,4 @@ fi
 . ./install-waybar.sh
 . ./install-pavucontrol.sh
 . ./install-wlogout.sh
+. ./install-fzf.sh

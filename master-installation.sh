@@ -20,3 +20,4 @@ fi
 . ./install-bluez.sh
 . ./install-blueman.sh
 . ./install-spotify.sh
+. ./install-jetbrains-mono-nerd.sh

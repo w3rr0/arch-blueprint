@@ -21,3 +21,4 @@ fi
 . ./install-blueman.sh
 . ./install-spotify.sh
 . ./install-jetbrains-mono-nerd.sh
+. ./install-waybar.sh

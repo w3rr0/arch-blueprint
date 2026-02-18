@@ -19,3 +19,4 @@ fi
 . ./install-neofetch.sh
 . ./install-bluez.sh
 . ./install-blueman.sh
+. ./install-spotify.sh

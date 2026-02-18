@@ -22,3 +22,4 @@ fi
 . ./install-spotify.sh
 . ./install-jetbrains-mono-nerd.sh
 . ./install-waybar.sh
+. ./install-pavucontrol.sh

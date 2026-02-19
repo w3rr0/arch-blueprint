@@ -25,3 +25,5 @@ fi
 . ./install-pavucontrol.sh
 . ./install-wlogout.sh
 . ./install-fzf.sh
+. ./install-grim.sh
+. ./install-slurp.sh

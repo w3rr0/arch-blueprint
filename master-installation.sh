@@ -16,7 +16,7 @@ fi
 . ./install-cliphist.sh
 . ./install-tmux.sh
 . ./install-starship.sh
-. ./install-neofetch.sh
+. ./install-fastfetch.sh
 . ./install-bluez.sh
 . ./install-blueman.sh
 . ./install-spotify.sh

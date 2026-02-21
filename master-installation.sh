@@ -27,3 +27,4 @@ fi
 . ./install-fzf.sh
 . ./install-grim.sh
 . ./install-slurp.sh
+. ./install-hyprpaper.sh

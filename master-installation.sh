@@ -28,3 +28,5 @@ fi
 . ./install-grim.sh
 . ./install-slurp.sh
 . ./install-hyprpaper.sh
+. ./install-npm.sh
+. ./install-unzip.sh

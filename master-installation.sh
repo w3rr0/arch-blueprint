@@ -30,3 +30,4 @@ fi
 . ./install-hyprpaper.sh
 . ./install-npm.sh
 . ./install-unzip.sh
+. ./install-tmux-plugin-manager.sh
